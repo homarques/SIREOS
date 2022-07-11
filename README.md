@@ -7,14 +7,14 @@ Repository of the paper:
 H. O. Marques, A. Zimek, R. J. G. B. Campello, and J. Sander.
 Similarity-based Unsupervised Evaluation of Outlier Detection.
 ```
-##Third-party indices source-codes:
--[IREOS](https://github.com/homarques/ireos-extension) [[1]](#references)
--[EM and MV Curves](https://github.com/ngoix/EMMV_benchmarks) [[2]](#references)
--[Laplacian Score](https://github.com/jundongl/scikit-feature) [[3]](#references)
+## Third-party indices source-codes:
+- [IREOS](https://github.com/homarques/ireos-extension) [[1]](#references)<br>
+- [EM and MV Curves](https://github.com/ngoix/EMMV_benchmarks) [[2]](#references)<br>
+- [Laplacian Score](https://github.com/jundongl/scikit-feature) [[3]](#references)<br>
 
-##Third-party datasets source-codes:
--[Real-world datasets](https://www.dbs.ifi.lmu.de/research/outlier-evaluation/DAMI/) [[4]](#references)
--[Synthetic datasets generator](https://github.com/CN-TU/mdcgenpy) [[5]](#references)
+## Third-party datasets source-codes:
+- [Real-world datasets](https://www.dbs.ifi.lmu.de/research/outlier-evaluation/DAMI/) [[4]](#references)<br>
+- [Synthetic datasets generator](https://github.com/CN-TU/mdcgenpy) [[5]](#references)<br>
 
 ## <a name="references">References</a>
 [1] [Marques, H.O., Campello, R.J.G.B., Sander, J., Zimek, A.: Internal evaluation of unsupervised outlier detection. ACM Trans. Knowl. Discov. Data 14(4), 47:1–47:42 (2020)](https://doi.org/10.1145/3394053)<br>
