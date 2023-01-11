@@ -4,8 +4,7 @@ Implementation by Henrique O. Marques < oli@sdu.dk >
 
 Repository of the paper:
 ```latex
-H. O. Marques, A. Zimek, R. J. G. B. Campello, and J. Sander.
-Similarity-based Unsupervised Evaluation of Outlier Detection.
+[H. O. Marques, A. Zimek, R. J. G. B. Campello, and J. Sander. Similarity-based Unsupervised Evaluation of Outlier Detection. In: SISAP. pp. 234-248 (2022)](https://doi.org/10.1007/978-3-031-17849-8_19)
 ```
 ## Third-party indices source-codes:
 - [IREOS](https://github.com/homarques/ireos-extension) [[1]](#references)<br>
